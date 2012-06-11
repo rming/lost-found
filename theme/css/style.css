@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; text-decoration:none;}
+.font_heiti{ font-family:"Microsoft YaHei", SimHei, STXihei;}
+.main{width:843px;height:auto; margin:0 auto;}
+.head{width:843px;height:164px; background:url(../images/head.jpg) no-repeat; margin-top:2px;float:left;}
+.logo{height:120px; width:470px; margin:22px 0 0 26px; float:left;}
+.logo a{height:60px; width:280px; text-indent:-9999px; display:block; clear:right;float:left;}
+.logo_title{font-size:18px; color:#ddc308;width:468px;float:left;margin-top:5px;}
+.right_c{width:250px;float:right;margin:6px 10px 0 0 ;}
+.right{height:30px; width:250px; font-family:SimHei,"Microsoft YaHei",  STXihei;float:right;text-align:right;}
+.right a{color:#ddc308;}
+.login_a{ height:21px; float:right;margin:98px 1px 0 0;}
+.login_a a{font-size:16px;color:#d3ded9;marfin-top:90px;float:left;margin-right:5px;}
+.content{width:100%; float:left;}
+
+.con_left{height:485px;width:555px; background:url(../images/con_bg.jpg) no-repeat; float:left;}
+.find_title{width:533px;height:44px; background:url(../images/icon.jpg) 0 0 no-repeat; border-bottom:#d9d9d9 solid 2px; margin:2px 0 0 10px;float:left;}
+.find_title a{color:#3d3d3d; display:block; margin:16px 0 0 44px;}
+
+.lost_title{width:533px;height:44px; background:url(../images/icon_6.jpg) 0 0 no-repeat; border-bottom:#d9d9d9 solid 2px; margin:10px 0 0 10px;float:left;}
+.lost_title a{color:#3d3d3d; display:block; margin:16px 0 0 44px;}
+.table_post{float:left;margin-left:15px;font-size:14px;_margin-left:5px;}
+.table_post_tr{background:#FBFBFB;height:31px;}
+.table_post_tr_1{height:24px;}
+.table_post_tr_1 td,.table_post_tr td {color:#404040;}
+.td_a a{color:#900;;}
+.td_a a:hover{color:red;}
+.tr_th th{font-size:14px;color:#909090;font-weight:normal;}
+th.type{  background:url(../images/icon_1.jpg) 12px 0 no-repeat;text-indent:8px;}
+th.name{ background:url(../images/icon_2.jpg) 0 0 no-repeat;text-indent:-78px;}
+th.place{ background:url(../images/icon_3.jpg) 0 0 no-repeat;text-indent:5px;}
+th.time{ background:url(../images/icon_4.jpg) 10PX 0 no-repeat;text-indent:8px;}
+th.info{ background:url(../images/icon_5.jpg) 0 0 no-repeat;}
+
+.con_right{height:480px;width:282px; margin-top:10px;  float:left;}
+.post_box{height:230px;width:282px;background:url(../images/right_bg.jpg) -2px 0 no-repeat;}
+.submit{width:250px; height:64px; background:url(../images/icon_7.jpg) 0 0 no-repeat; margin:10px 0 0 25px; float:left;}
+.blank_1{width:50px;height:64px; float:left;}
+.submit_title{color:#404040;font-size:19px; margin:14px 0 0 0 ; float:left; clear:right;}
+.submit_title a{color:#404040;}
+.submit_title a:hover{color:#000;}
+.submit_desc{font-size:12px; width:200px; float:left;}
+.submit_find{width:250px; height:64px; background:url(../images/icon_8.jpg) 0 0 no-repeat; margin:0 0 0 25px; float:left;}
+.submit_thx{width:250px; height:64px; background:url(../images/icon_9.jpg) 0 0 no-repeat; margin:0 0 0 25px; float:left;}
+.banner_1{height:100px; width:280px; margin-top:-8px; float:left;}
+.banner_2{height:140px; width:280px; float:left;}
+.ulink{height:30px; width:100%; float:left;  color:#333;}
+.ulink a{ margin-left:10px; font-size:14px; color:#666;}
+.ulink a:hover{color:#333;}
+.foot{height:100px; width:100%; border-top:solid #b2b2b2 2px ; font-size:14px; float:left; }
+.foot p{text-align:center; color:#999;}
+.foot a{color:#666;}
+.foot a:hover{color:#000;}
+.pagenav{height:30px;width:750px;font-size:14px; float:left;text-align:center;margin-top:10px;line-height:30px;}
+.pagenav a{border: 1px solid #16C2F1;color: #96C2F1;padding: 3px 8px;margin: 2px;text-decoration: none;}
+.pagenav a:hover{text-shadow: 1px 1px #EEE;box-shadow: 0 0 10px #efefef;}
+.info_page_num_current{text-shadow: 1px 1px #EEE;box-shadow: 0 0 10px #efefef;}
+.right_bar {position: fixed;_position: absolute;right: 0;top: 40%;width: 28px;height: 131px;text-indent: -9999em;overflow: hidden;}
+.feedback {display:block;float:left;width: 28px;height: 99px;background: url(../images/feedback-side.png) no-repeat scroll 0 0;text-indent: -9999em;overflow: hidden;}
+.search{display:block;float:left;height:30px;width:30px;background:url(../images/find.png) center center no-repeat;text-indent: -9999em;overflow: hidden;}

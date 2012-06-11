@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{_margin:20px 0 0 8px;}
+.logo_title{_margin-left:5px;}
+.right_c{_margin:6px 6px 0 0 ;}
+.find_title{ _margin-left:5px; _height:40px;}
+.lost_title{_margin-left:5px; _height:40px;}
+.submit,.submit_find,.submit_thx{ _margin-left:10px;}
+.find_title a,.lost_title a{_margin-left:24px;}
+.lost_title_ie6_fix a,.found_title_ie6_fix a{_margin-left:36px;}
+.con_top_ie6_fix{_background-position:0 bottom;}
+.con_bottom{_background-position:0 top;}
+.login_title A{_margin-left:22px;}
+.login_title{_margin-left:4px;}

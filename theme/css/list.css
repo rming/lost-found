@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.find_title,.lost_title{width:820px;height:44px; background:url(../images/icon.jpg) 0 0 no-repeat; border-bottom:#d9d9d9 solid 2px; margin:10px 0 0 8px;float:left;}
+.find_title{background: url(../images/icon_6.jpg) 0 0 no-repeat;}
+.find_title a,.lost_title a{color:#3d3d3d; display:block; margin:16px 0 0 44px; width:620px; height:20px; float:left;}
+.cateselect{float:left;margin:20px 0 0 50px;}
+a.go_another{margin:0px; padding:0px; margin-top:24px;width:auto; font-size:14px;float:left;}
+.li_t{width:824px;height:26px; margin-left:5px;float:left;}
+.list{width:834px; background:url(../images/con_in.jpg)  center 0 repeat-y; float:left;}
+.con_top{ width:100%; height:12px; background:url(../images/con_top.jpg) 0 bottom no-repeat; float:left;}
+.con_bottom{width:100%; height:9px; background:url(../images/con_bottom.jpg) 0 0  no-repeat; float:left;}
+/* for ie 6*/
+

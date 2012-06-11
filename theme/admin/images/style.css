@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;padding:0px;text-decoration:none;}
+.main{width:100%;height:auto;}
+.head{width:100%; height:70px; float:left; background:#1582ab;  border-bottom:30px  solid #2aa1cc;}
+.head_con{width:850px; height:70px; margin:0 auto; }
+.logo{width:500px;height:60px; float:left;}
+.my_link{width:300px;float:right;padding-top:50px;font-size:14px;}
+.my_link a{color:#fff;float:right;}
+.logo a{width:200px;height:50px; display:block; float:left; background:url(admin_logo.jpg) no-repeat; margin:18px 0 0 10px;}
+
+
+.content{ width:100%; float:left;background:#91c4d7;}
+.content_con{height:550px;width:800px; margin:0 auto;background:#FFF;}
+.left{width:145px;height:100%;float:right;margin-right:5px;_margin:0px;font-family:"Microsoft YaHei", SimHei, STXihei;}
+.left ul{margin-top:20px;margin-right:5px;_margin-right:0px;}
+.li_titile{width:120px;height:20px;display:block;padding-left:20px;font-size:14px;float:left;}
+.left ul li{float:right;list-style:none;width:100px;height:25px;margin-top:5px;line-height:25px;}
+.left ul li a{display:block;width:100%;height:100%;padding-left:5px;font-size:13px;color:#0a739b;}
+.left ul li a:hover{color:#00688f;}
+
+.nav_hover{border:solid 1px #428ba6;border-bottom:2px solid #1582ab;border-right:none;background:#fff;}
+.right_con{width:650px;height:100%;float:right;background:#aaa;margin:-8px 0 0 0;}
+.right{width:650px;height:100%;float:left;margin:-8px 0 0 -5px;border:#428ba6 1px solid;background:#fff;_position:relative;left:-5px;}
+.right_content{width:600px;margin:0 auto;}
+.right_content table tr th {font-size:16px;font-weight:normal;color:#333;}
+.right_content table tr:hover{background:#eee;}
+.cateselect{float:right;margin-top:10px;}
+/* editform */
+.post_t{height:26px; width:80px; text-align:right; float:left;}
+.post_c{width:500px; height:auto;text-align:left; float:left; }
+ul.post{ margin:10px 0 10px 20px; float:left;}
+ul.post li{list-style:none; float:left;}
+.post_form{float:left;width:630px;}
+
+.pagenav{height:30px;width:600px;font-size:14px; float:left;text-align:center;margin-top:10px;line-height:30px;}
+.pagenav a{border: 1px solid #16C2F1;color: #96C2F1;padding: 3px 8px;margin: 2px;text-decoration: none;}
+.pagenav a:hover{text-shadow: 1px 1px #EEE;box-shadow: 0 0 10px #efefef;}
+.right_title{height:40px;width:600px;margin:0 auto;border-bottom:1px solid #aaa;}
+.foot{height:40px; width:100%; text-align:center; color:#fff; font-size:12px; float:left; background:#1582ab; padding-top:20px;}
+.foot a{color:#eee;}
+.foot a:hover{color:#FFF;}

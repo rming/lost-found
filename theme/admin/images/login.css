@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px; padding:0px; text-decoration:none; border:none;}
+.login{width:100%; height:220px; background:#1582ab;border-bottom:10px  solid #2aa1cc; margin-top:15%;_top:80px;position:relative;}
+.login_con{width:800px; height:200px; margin:0 auto;}
+.logo{width:305px;height:152px;margin-top:-60px;float:left; background:url(../images/admin_login_logo.png) no-repeat;position:relative;}
+.logo a{display:block;height:100%;wdith:100%;}
+.login_title{height:34px; padding-top:56px;font-size:26px; color:#fff;font-family:"Microsoft YaHei", SimHei, STXihei; float:left;}
+.form{width:100%; height:100px; float:left;}
+.blank_1{width:300px;height:100%; float:left;}
+.login_form{width:300px; height:auto; float:left;}
+.login_form ul li{height:25px;width:100%;list-style:none; float:left; color:#eee; margin-top:5px;}
+.login_form  ul li span{width:80px;height:20px; float:left;text-align:right;}
+.login_form  ul li input{float:left;}
+li.buttons{padding-left:70px;}
+.buttons input{width:30px;height:20px; margin-left:10px;}
